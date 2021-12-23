@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Facultate/AN2/AF/CLASS/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+queue
+-
+string
+-
+stack
+-
+algorithm
+-
+

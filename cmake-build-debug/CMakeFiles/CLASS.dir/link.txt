@@ -1,0 +1,3 @@
+"D:\Programe\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CLASS.dir/objects.a
+D:\Programe\OJI\Codeblocks\MinGW\bin\ar.exe cr CMakeFiles\CLASS.dir/objects.a @CMakeFiles\CLASS.dir\objects1.rsp
+D:\Programe\OJI\Codeblocks\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\CLASS.dir/objects.a -Wl,--no-whole-archive -o CLASS.exe -Wl,--out-implib,libCLASS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CLASS.dir\linklibs.rsp
